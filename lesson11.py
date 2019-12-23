@@ -15,4 +15,4 @@ print('Title: {1}, price: {0}'.format(title, price))
 print('Title: {title}, price: {price}'.format(title=title, price=price))
 
 # F-strings
-print(f'Title: {title}, price: {price}')
+print(f'Title: {title}, price: {price}. This is the most popular method.')
